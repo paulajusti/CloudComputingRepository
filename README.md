@@ -1,2 +1,2 @@
 # CloudComputingRepository
-Repository created on the Cloud Computing class.
+Repository created at the Cloud Computing class.
