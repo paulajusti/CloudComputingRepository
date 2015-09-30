@@ -6,6 +6,7 @@ phrase = phrase.casefold()
 
 rev_str = reversed(phrase)
 
+#method to revert the phrase and compare
 if list(phrase) == list(rev_str):
    print("It is palindrome")
 else:
